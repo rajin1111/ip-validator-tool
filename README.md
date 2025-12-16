@@ -1,9 +1,9 @@
-IP Validator Tool 🛡️
+IP Validator Tool 
 
 A small Python tool I built to quickly check IPv4 and IPv6 addresses.
 Runs in the terminal, easy to use, and can handle lots of IPs at once.
 
-🚀 Features
+Features
 
 Simple Validation: Detects IPv4, IPv6, or invalid addresses.
 
